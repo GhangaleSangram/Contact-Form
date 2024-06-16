@@ -57,13 +57,3 @@
   "message": "Just a Testing"
 }
 ```
-
-### Connect :
-
-- [Channel](https://telegram.dog/tprojects)
-- [Support Group](https://telegram.dog/t_projects)
-
-### License & Copyright :
-
-- This Project is [Apache-2.0](https://github.com/tuhinpal/Contact-Form/blob/main/LICENSE) Licensed
-- Copyright 2022 by [Tuhin Kanti Pal](https://github.com/tuhinpal)
